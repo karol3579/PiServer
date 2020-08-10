@@ -1,0 +1,1 @@
+java -cp Base.jar com.example.Base.BaseApplication
